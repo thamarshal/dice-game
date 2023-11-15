@@ -1,0 +1,30 @@
+body{
+    background-color:rgb(3, 3, 39);
+    text-align: center;
+}
+h1{
+    color: #fff;
+    font-size: 5em;
+    font-weight: 900;
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+h4{
+    color: #fff;
+    font-size: 2rem;
+}
+img{
+    width: 25%;
+}
+#player1{
+    
+}
+#player2{
+
+}
+footer{
+    color: #fff;
+    margin: 90px auto 20px auto;
+}
